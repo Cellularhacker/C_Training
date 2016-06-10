@@ -1,7 +1,7 @@
 /*
 * Date: 2016-06-10
 * Title: Example for Question1 at C_Training
-* Filename: Question1.c
+* Filename: Question1_ex.c
 * Lisence: GNU GENERAL PUBLIC LICENSE Version 3
 * Written by Celluarhacker
 */
