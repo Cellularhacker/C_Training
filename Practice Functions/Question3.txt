@@ -1,0 +1,15 @@
+/*
+English: Make the 'CCC' Function judges arguments from 'main' Function
+ is the odd number or even number,
+ and print "Odd", "Even" in 'main' Function
+
+
+한국어(Korean): main함수에서 한 개의 정수를 입력받아서,
+ 입력받은 정수가 "홀수"인지 "짝수"인지 판단하는 함수 CCC를 만들어서,
+ 'main'함수에서 "홀", "짝"을 출력하시오.
+
+
+日本語(Japansese): 'main'ファンクションで一つの整数を入力して、
+ 入力された整数が奇数か偶数か判断するファッション'CCC'を作って、
+ 'main'ファッションで"奇"、"偶"を出力してください。
+*/

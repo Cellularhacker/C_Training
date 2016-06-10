@@ -1,0 +1,14 @@
+/*
+< Question2 > 
+English: Get the two of intger in 'main'function,
+ calculate the area of rectangle with these two integer in length and breadth in 'AAA'Function
+ and print it at 'main' function.
+
+한국어(Korean): main함수에서 두 개의 정수를 입력받아,
+ AAA함수에서 두 정수를 가로, 세로로 하는 직사각형의 넓이를 구하고,
+ main함수에서 출력하는 Program을 작성하세요.
+
+日本語(Japanese): 'main'ファンクションで二つの整数を入力して、
+ 'AAA'ファンクションで二つの整数を縦と横にする長方形の広さを計算し、
+ 'main'ファンクションで出力するフログラムの作成してください。
+*/
